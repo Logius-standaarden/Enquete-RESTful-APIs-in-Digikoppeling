@@ -1,62 +1,30 @@
-# [kop 1 voorbeeld tekst]
-Dit is een voorbeeld tekst.
+# Inleiding
 
-Als je iets nadruk wilt geven: *tekst met nadruk (schuingedrukt)*. Of: _zo kan het ook_.
+## Waarom deze enquête?
 
-Sterke nadruk doe je zo: **tekst met sterke nadruk**.
+Het Technisch Overleg Digikoppeling heeft Logius gevraagd te onderzoeken of op termijn API’s als koppelvlak opgenomen kunnen worden in Digikoppeling. Om invulling te geven aan dit verzoek wil Logius graag een goed beeld hebben hoe de verschillende belanghebbenden de opname van een API koppelvlak voor zich zien en waar zij uiteindelijk het meest mee geholpen zijn. Tegelijk moet Digikoppeling een open en gedragen standaard blijven tijdens en na deze uitbreiding.
 
-Kop niveau's geef je aan met hashtags.
+In deze enquête hebben we daarom een aantal vragen op een rij gezet die helpen om in eerste aanzet de scope en omvang van deze oefening te bepalen.
 
-Om speciale blokken tekst te maken moet je toch een beetje HTML gebruiken:
+In deze enquête stellen we een aantal oriënterende vragen over Digikoppeling, om te onderzoeken hoe we REST api's kunnen onderbrengen in de Digikoppeling Standaard. Deze enquête bevat 5 segmenten en totaal 6 vragen.
 
-<aside class="example">
-Voorbeeld hier...
-</aside>
+Voordat we een aantal vragen stellen, eerst enige informatie over de Digikoppeling standaard, om het geheugen op te frissen.
 
-<aside class="note">
-Noot tekst hier...
-</aside>
+## Wat is Digikoppeling?
 
-<aside class="issue" data-number="1">
-Issue tekst hier...
-</aside>
 
-<aside class="warning">
-Waarschuwing hier...
-</aside>
+|plaatje|Digikoppeling is een verzameling van een aantal standaarden en afspraken, ebMS2, WUS en Grote Berichten.
 
-## kop 2
+Digikoppeling maakt het mogelijk dat organisatie interoperabel, veilig en betrouwbaar gegevens kunnen uitwisselen.
 
-### kop 3
+Digikoppeling regelt:
 
-#### kop 4
+    identificatie (van organisaties met het OIN )
+    authenticatie (via Pkioverheid certificaten)
+    vertrouwelijkheid (tweezijdig TLS )
 
-# meer voorbeelden
-Voorbeeld tekst.
-Lijstje:
-- item 1
-- item 2
-- item 3
+en biedt aanvullende mogelijkheden voor end to end integriteit, onweerlegbaarheid, verdergaande vertrouwelijkheid (via signing en encryption)
 
-Genummerd lijstje:
-1. item
-2. item
-3. item
+Digikoppeling bevat profielen, vaak inperkingen op de internationale standaarden ebMS2 en WUS (eigenlijk de WS-I profielen BP 1.2 en BSP 1.1).
 
-Links:
-- [link naar iets](http://www.example.com)
-- [meer over Markdown](https://guides.github.com/features/mastering-markdown/)
-
-(*Als je afbeeldingen wilt opnemen moeten die al ergens op het internet staan, want je verwijst ernaar met een URL. Liefst zet je ze in de github repository waar je document ook in staat. Zet ze dan in de `\media` folder. Je kan dan een relatieve URL gebruiken, bv* `media/fig1.jpg`.)
-
-![einstein quote](media/fig1.jpg "hover tekst")
-
-Tabel:
-
-*Vóór een tabel moet je een witregel zetten, anders werkt het niet*
-
-|**Kolom 1** | **Kolom 2** | **Kolom 3** |
-|------------|-------------|-------------|
-| rij 1 cel  | rij 1 cel   | rij 1 cel   |
-| rij 2 cel  | rij 2 cel   | rij 2 cel   |
-| rij 3 cel  | rij 3 cel   | rij 3 cel   |
+De Digikoppeling Grote Berichten standaard is niet gebaseerd op een internationale standaard. Digikoppeling Grote berichten is een Nederlandse afspraak gebaseerd op het Claim Check Patroon.|plaatje|

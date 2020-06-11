@@ -20,7 +20,9 @@ Voordat we een aantal vragen stellen, eerst enige informatie over de Digikoppeli
 |![Digikoppeling Venn](media/DK_Venn.png "Title Text")|Digikoppeling is een verzameling van een aantal standaarden en afspraken, ebMS2, WUS en Grote Berichten. Digikoppeling maakt het mogelijk dat organisatie interoperabel, veilig en betrouwbaar gegevens kunnen uitwisselen. |![Digikoppeling Venn](media/DK_KVS.png "Title Text")|
 
 Digikoppeling regelt:
-    identificatie (van organisaties met het OIN )
-    authenticatie (via Pkioverheid certificaten)
-    vertrouwelijkheid (tweezijdig TLS )
+
+- identificatie (van organisaties met het OIN )
+- authenticatie (via Pkioverheid certificaten)
+- vertrouwelijkheid (tweezijdig TLS )
+    
 en biedt aanvullende mogelijkheden voor end to end integriteit, onweerlegbaarheid, verdergaande vertrouwelijkheid (via signing en encryption) Digikoppeling bevat profielen, vaak inperkingen op de internationale standaarden ebMS2 en WUS (eigenlijk de WS-I profielen BP 1.2 en BSP 1.1). De Digikoppeling Grote Berichten standaard is niet gebaseerd op een internationale standaard. Digikoppeling Grote berichten is een Nederlandse afspraak gebaseerd op het Claim Check Patroon.

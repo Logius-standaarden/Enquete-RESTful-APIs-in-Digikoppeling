@@ -17,9 +17,9 @@ Voordat we een aantal vragen stellen, eerst enige informatie over de Digikoppeli
 
 | Standaard| Digikoppeling| Koppelvlakspecificatie |
 |---|---|---|
-|![Digikoppeling Venn](media/DK_Venn.png "Title Text")|Digikoppeling is een verzameling van een aantal standaarden en afspraken, ebMS2, WUS en Grote Berichten. Digikoppeling maakt het mogelijk dat organisatie interoperabel, veilig en betrouwbaar gegevens kunnen uitwisselen. Digikoppeling regelt:|![Digikoppeling Venn](media/DK_KVS.png "Title Text")|
+|![Digikoppeling Venn](media/DK_Venn.png "Title Text")|Digikoppeling is een verzameling van een aantal standaarden en afspraken, ebMS2, WUS en Grote Berichten. Digikoppeling maakt het mogelijk dat organisatie interoperabel, veilig en betrouwbaar gegevens kunnen uitwisselen. |![Digikoppeling Venn](media/DK_KVS.png "Title Text")|
 
-
+Digikoppeling regelt:
     identificatie (van organisaties met het OIN )
     authenticatie (via Pkioverheid certificaten)
     vertrouwelijkheid (tweezijdig TLS )

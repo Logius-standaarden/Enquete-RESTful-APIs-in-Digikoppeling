@@ -64,8 +64,7 @@ Daarnaast worden er een aantal uitzonderingen genoemd die duidelijk maken dat er
 
 ![Scenario's](media/scope.png "Verschillende scenario's voor de scope van Digikoppeling")
 
-```
-VRAAG 1. Wat is voor mij de Scope van Digikoppeling?
+## VRAAG 1. Wat is voor mij de Scope van Digikoppeling?
 
 1. De scope van Digikoppeling moet gaan over al het dataverkeer in het Closed Data segment (scenario 1).
 
@@ -76,13 +75,12 @@ VRAAG 1. Wat is voor mij de Scope van Digikoppeling?
 4. geen van bovenstaande.
 
 5. Anders, namelijk
-``` 
 
 ## Grafiek van de antwoorden
 
-![Vraag 1](media/vraag_1_0_chart.png "Opgetelde scores van vraag 1.0")
+![Vraag 1.0](media/vraag_1_0_chart.png "Opgetelde scores van vraag 1.0")
 
-## Reacties
+### Reacties
 
 >Het onderscheid binnen en buiten de overheid is steeds minder relevant. Gegevensregistraties en transactiesystemen van de overheid worden gebruikt door zowel andere overheden als door partijen buiten de overheid. Gedwongen daarbij een onderscheid maken is dubbel werk voor iedereen. Ondertussen blijft het wel relevant om een set standaarden te hebben die door iedereen in het netwerk toegepast kunnen worden.
 

@@ -39,7 +39,7 @@ Daarnaast worden er een aantal uitzonderingen genoemd die duidelijk maken dat er
 <table>
 <tbody>
 <tr>
-<td> <img src="media\OVInteractie.png" height="300" /></td>
+<td> <img src="media\OVInteractie.png" /></td>
 <td>
 <div style="padding: 10px;">
 <p>In de discussie maken we onderscheid tussen intern en externe uitwisseling van gegevens. Intern verkeer valt buiten de scope van Digikoppeling. <br /><br />Het is daarnaast handig om onderscheid te maken wie gegevens met een overheidsorganisatie uitwisselt:<br /><br /></p>
@@ -62,6 +62,8 @@ Daarnaast worden er een aantal uitzonderingen genoemd die duidelijk maken dat er
 1. Uitwisseling van alle externe dataverkeer met de overheid.
 1. Uitwisseling van Closed Data tussen overheidsorganisaties onderling. Dit komt het meest over een met de huidige scope.
 
+![Scenario's](media/scope.png "Verschillende scenario's voor de scope van Digikoppeling")
+
 ```
 VRAAG 1. Wat is voor mij de Scope van Digikoppeling?
 
@@ -75,3 +77,34 @@ VRAAG 1. Wat is voor mij de Scope van Digikoppeling?
 
 5. Anders, namelijk
 ``` 
+
+## Reacties
+
+>Het onderscheid binnen en buiten de overheid is steeds minder relevant. Gegevensregistraties en transactiesystemen van de overheid worden gebruikt door zowel andere overheden als door partijen buiten de overheid. Gedwongen daarbij een onderscheid maken is dubbel werk voor iedereen. Ondertussen blijft het wel relevant om een set standaarden te hebben die door iedereen in het netwerk toegepast kunnen worden.
+
+>En bedrijven met een (deels) wettelijke taak en/of service providers onder verantwoordelijkheid van de overheid.
+
+>"Inclusief (semi) publieke sector (!). 
+Ik twijfel tussen 1 en 3, want zie ook voordelen in het gebruik van digikoppeling standaard, inclusief authenticatie / beveiligingsaspecten, voor closed data segment tussen bedrijven en overheden / semi publieke sector. 
+Citizens zullen niet zo vaak over digikoppeling faciliteiten beschikken, lijkt me. "
+
+>opmerking: in veel client applicaties wordt altijd een combinatie van open en closed data getoond. indien al deze data met 1 standaard bij de overheid is in te zien is dat veel gebruiksvriendelijker dan wanneer verschillende standaarden gelden en er ergens moet worden beschreven wanneer je welke standaarden toepast.
+"Volgens mij kloppen de letters niet helemaal, zou moeten zijn C2G, B2G en G2G.
+Scenario 1 is aantrekkelijk, maar dan zou je de DK standaard moeten uitbreiden met extra opties, met name voor C2G uitwisseling. En ook voor B2G zijn er veilige opties die nu niet onder de DK standaard vallen.
+Het is overigens niet verboden om niet-privacy gevoelige data te versturen over een Digikoppeling verbinding.
+"
+
+>Deze vraag heeft misschien ook een afhankelijkheid naar het beheervraagstuk, wie gaat de RESTful API standaarden en profielen beheren. Verder hebben verschillende RESTful standarden een ander functioneel toepassingsgebied dan nu voor DK geldt. Naar ik begrijp wordt Logius verantwoordelijk voor beheer maar er is hiermee tevens behoefte aan een community die beheer/doorontwikkeling begeleid. Als dit het TO DK is dan lijkt het me logisch dat de scope van DK wordt aangepast naar #2 om ook aan te sluiten bij de functionele toepassingsgebieden van REST standaarden/profielen. Als er een ander gremium wordt ingericht dan kan dit #3 blijven maar moeten er wel duidelijke afspraken zijn hoe eea zich tot elkaar verhoudt. Verder is het wenselijk om generieke beveiligingsvoorschriften te hebben die voor DK als REST relevant zijn, bijvoorbeeld TLS. Ongeacht scope er is een noodzaak voor overzicht en samenhang  
+
+>Volgens mij is en moet de scope ook beperkt blijven tot closed data tussen overheden onderling. Met als kanttekening dat duidelijker moet worden dat als er een alternatief is (NEN3610 of API of ..) dat er géén verplichting is DK te gebruiken
+
+>de scope van Digikoppeling zou naar mijn mening moeten zijn de uitwisseling van data tussen overheden onderling en met organisaties die een publieke taak vervullen. Dus voor de uitwisseling van gegevens tussen organisaties met een OIN. Of de data open of gesloten is maakt daarbij niet uit. Digikoppeling gaat over veilig transport tussen organisaties. Het kan best zijn dat ik als organisatie ook bij het opvragen van open gegevens zeker wil zijn van (a) de identiteit van de afzender en (b) dat de gegevens tijdens transport niet gewijzigd zijn. Ik kan dus besluiten dat ik de open gegevens via Digikoppeling wil ontvangen. De toepassing van Digikoppeling is dus niet onder te verdelen in transport van open of gesloten gegevens, er zijn andere overwegingen te maken voor de toepassing van Digikoppeling
+
+>Er is steeds minder sprake van een verschil tussen binnen en buiten de overheid. Zeker nu ook private partijen subOIN's mogen aanvragen. Eenheid en afspraken over hoe het berichtenverkeer plaatsvindt is wel belangrijk. 
+
+>Ondanks dat het over alle dataverkeer gaat, moeten profielen komen voor enerzijds open-data en anderzijds closed-data. Met de voorwaarden dat open-data niet beveiligd hoeft te worden, terwijl closed-data beveiligd moet worden.
+
+>"Je moet geen voorzieningen gaan delen met de markt, mochten die in de standaard worden vastgesteld.
+
+>Standaard afspreken zou nog kunnen, maar dit overleg heeft niet de capaciteit om die verplicht te stellen. Eerder volgt de overheid de markt-standaarden."
+

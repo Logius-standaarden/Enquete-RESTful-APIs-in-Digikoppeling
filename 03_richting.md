@@ -4,6 +4,7 @@ Onderstaand is een schets welke vragen wij als beheerder hebben over het inbedde
 
 ![Vraag 3.0](media/evolutie.png "Mogelijke ontwikkelingen van de Digikoppeling Standaard")
 
+
 <table>
 <tbody>
 <tr>
@@ -40,7 +41,7 @@ Onderstaand is een schets welke vragen wij als beheerder hebben over het inbedde
 
 ## Vraag 3. Mijn visie op de toekomst of evolutie van Digikoppeling
 
-### reacties
+### Reacties
 
 >Alles opnemen wat gaat over het makkelijker / goedkoper uitwisselen van gegevens tussen overheden en met de overheid. Wat mij betreft voor open data, maar ook beveiligd met end-to-end encryptie en signing. En niet alleen papier maar ook ondersteuning met open source implementatie die het makkelijker maakt om systemen veilig en betrouwbaar te koppelen.
 
@@ -53,17 +54,19 @@ De beweging moet zijn: niet koste wat kost de huidige technologische keuzes hand
 >Uiteraard moeten technologische ontwikkelingen worden gevolgd, maar dan getoetst en eventueel opgenomen worden binnen de transport, logistiek en beveiligings-scope  van DK.
 De laatste evolutie met de grote berichten (push) standaard had naar mijn mening alleen een praktische invulling mogen zijn van de standaard, maar niet een standaard op zich, Het is alleen introduceert om geen ebMS te hoeven implementeren. 
 >De principes van bevragingen en meldingen zouden meet gehandhaafd mogen worden. "
-
+>
 >Straks RESTFul API naast WUS/ebMS.
 >Daarna JSON naast XML"
-
+>
 >Niet te breed trekken met NLX. Er kunnen meer standaarden op segmentniveau zijn maar belangrijk is één centraal gedefinieerde standaard. Dus ad 1. heeft mijn voorkeur met inachtneming van FS geadopteerde standaarden.
+
 >Digikoppeling is een prima concept, wat in mijn beleving niet teveel op de schop hoeft. Natuurlijk wel belangrijk om mee te bewegen met de tijd.
 Wellicht belangrijkste: behoudt aandacht voor en focus op interoperabiliteit!
 >De ideeën die hier worden genoemd, lijken mij verstandig. REST API's zijn voor veel zaken veel makkelijker te implementeren dan EBMS2, maar niet perse voor elke situatie ideaal. EBMS2 en WUS hebben ook voordelen, al verwacht ik dat WUS plaats zal gaan maken voor REST API's. Voor asynchrone data / bestands uitwisselingen is EBMS2 gewoon een prima protocol wat veel organisaties in place hebben en het werkt. Overgaan naar EBMS3 lijkt mij niet echt prioriteit hebben, natuurlijk zou het voor sommige beheer organisaties prettig zijn (ipv EBMS2 & 3 ondersteunen), maar het zal een heel flinke klus worden en in de praktijk zal gewoon niet alles gemigreerd worden.
 >De ADR stelt in mijn ogen dat REST APIs ook echt REST APIs moeten zijn, weer een goede zaak. Het opnemen dat closed data REST API's onder digikoppeling minimaal tweezijdige TLS moeten gebruiken lijkt mij ook een goed.
 Verder lijkt het mij niet direct verstandig om teveel extra beperkingen / regels op te leggen voor REST API's, maar best practices zijn wellicht wel handig. Bijvoorbeeld de JSON webtokens.
 >Hoop dat dit een beetje een coherent beeld geeft. Ik zou zeggen ga zo door. Blijf ook kritisch in wat Digikoppelign wel en niet moet regelen, betrek het TO daar ook bij.
+
 >Digikoppeling wordt meer een paraplu begrip met daaronder een steeds grotere verscheidenheid met profielen. De architectuur moet beschrijven wat de situaties zijn waarin verschillende profielen worden ingezet.
 >per profiel moet duidelijk zijn wat de roadmap en status is. Wanneer is een profiel EOL (end of life) en wanneer is een profiel volwassen genoeg en om te kunnen worden toegepast, wat is de mate van adoptie en implementatie etcetera.
 >ook moet van historische en nieuwe kandidaat profielen duidelijk zijn wat de feiten en meningen zijn. 
@@ -77,7 +80,7 @@ Verder lijkt het mij niet direct verstandig om teveel extra beperkingen / regels
 >- of graphQL een potentieel profiel is van DK"
 
 >Ik denk dat DK een standaard moet blijven die onafhankelijk is van producten. Producten komen en gaan, organisaties moeten investeren in de ondersteuning hiervan, door zelf kennis op te bouwen of door support te regelen van een leverancier (licenties). Organisaties moeten daar vrij in zijn en blijven. Dus ik zou geen verband wensen tussen DK en NLX. Een standaard die door slechts één product wordt ondersteund is niet nuttig als standaard (schrijf dan gewoon het product voor). 
-
+>
 >Uitbreidingen op de DK standaard (inclusief de API standaarden) moeten worden getoetst, voordat ze als verplichting kunnen worden opgelegd. 'Dit lijkt leuk en modern' is geen motivatie. Een uitbreiding moet voldoen aan de doelstellingen van DK en er moet behoefte aan zijn, naast hetgeen er al is."
 
 >Heeft dus relatie met antwoord op vraag 1. Lijkt er op dat de keuze is dat eea geïntegreerd wordt binnen DK (community) en dat is prima als de community de betreffende expertise heeft, beveiliging in het algemeen en de hoe dit in verschillende internationale standaarden vorm wordt gegeven .

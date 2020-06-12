@@ -27,7 +27,7 @@ Hoewel Digikoppeling breder te gebruiken is, heeft de Nederlandse overheid bepaa
 </tbody>
 </table>
 
-## Vraag 1. Wat moet de Scope van Digikoppeling worden?
+## Wat moet de Scope van Digikoppeling worden?
 
 ### inleiding
 
@@ -107,6 +107,6 @@ Het is overigens niet verboden om niet-privacy gevoelige data te versturen over 
 >Ondanks dat het over alle dataverkeer gaat, moeten profielen komen voor enerzijds open-data en anderzijds closed-data. Met de voorwaarden dat open-data niet beveiligd hoeft te worden, terwijl closed-data beveiligd moet worden.
 
 >Je moet geen voorzieningen gaan delen met de markt, mochten die in de standaard worden vastgesteld.
-
+>
 >Standaard afspreken zou nog kunnen, maar dit overleg heeft niet de capaciteit om die verplicht te stellen. Eerder volgt de overheid de markt-standaarden.
 

@@ -25,11 +25,11 @@ Veel overheidsorganisaties zien de voordelen van het (verplicht) gebruik van sta
 >Een digitale maatschappij kan alleen functioneren als de overheid zichzelf in voldoende mate heeft gedigitaliseerd, zowel voor haar kerntaken, dienstverlening als innovatie.
 
 >De hierboven genoemde voordelen zijn ook in mijn ogen belangrijkste behoefte.
->Digikoppeilng standaarden bieden een gemeenschappelijke basis op basis waarvan veel projecten sneller gerealiseerd kunnen worden dan zonder zo'n basis. Het ondersteund organisaties die wellicht zelf niet altijd de expertise in huis hebben om dergelijke architectuur/technische keuzes goed te maken.
->Tevens is het bevorderlijk voor de continuïteit van het beheer voor alle betrokken partijen. Niet dat EBMS2 of WUS perfect zijn, maar zonder de standaard zouden er 1001 oplossingen zijn, geen interoperability, etc.
+>Digikoppeilng standaarden bieden een gemeenschappelijke basis op basis waarvan veel projecten sneller gerealiseerd kunnen worden dan zonder zo'n basis. Het ondersteunt organisaties die wellicht zelf niet altijd de expertise in huis hebben om dergelijke architectuur/technische keuzes goed te maken.
+>Tevens is het bevorderlijk voor de continuïteit van het beheer voor alle betrokken partijen. Niet dat ebMS2 of WUS perfect zijn, maar zonder de standaard zouden er 1001 oplossingen zijn, geen interoperability, etc.
 >Oftewel, Digikoppeling voorziet in de behoefte naar een standaard voor closed data uitwisseling :).
 
->een simpele verwijzing voor elke leek die iets moet met gegevensuitwisseling. men wil simpelweg kunnen zeggen "Dat moet met de Digikoppeling standaard". Daarna kunnen de leveranciers, developers en engineers zelf  uitzoeken wat dat betekend en hoe dat dan in detail moet worden gedaan. vergelijkbaar met de opmerkingen " stop de data in een database" en "zorg dat het veilig is
+>een simpele verwijzing voor elke leek die iets moet met gegevensuitwisseling. men wil simpelweg kunnen zeggen "Dat moet met de Digikoppeling standaard". Daarna kunnen de leveranciers, developers en engineers zelf  uitzoeken wat dat betekent en hoe dat dan in detail moet worden gedaan. vergelijkbaar met de opmerkingen " stop de data in een database" en "zorg dat het veilig is" 
 
 >Ik denk dat je de kern overeind moet houden: interoperabel, veilig en betrouwbaar verkeer o.b.v. identificatie, authenticatie en vertrouwelijkheid. Kies daarbij standaarden die (voor een langere periode) ondersteund worden door gangbare oplossingen in de markt.
 
@@ -49,4 +49,4 @@ Veel overheidsorganisaties zien de voordelen van het (verplicht) gebruik van sta
 Daarnaast draagt het bij aan de creativiteit bij de ontwikkeling van diensten.
 
 >De zekerheid dat er veilige verbindingen met goed geauthenticeerde overheidspartijen worden opgezet.
-Maar veel overheidspartijen vragen om makkelijker, goedkopere alternatieven."
+Maar veel overheidspartijen vragen om makkelijker, goedkopere alternatieven.

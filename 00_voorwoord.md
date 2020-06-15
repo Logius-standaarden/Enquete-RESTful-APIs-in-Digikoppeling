@@ -13,7 +13,7 @@ Voordat we een aantal vragen stellen, eerst enige informatie over de Digikoppeli
 ## Wat is Digikoppeling?
 
 | Standaard| Digikoppeling| Koppelvlakspecificatie |
-|---|---|---|
+|---|------------------------------------------------------------|---|
 |![Digikoppeling Venn](media/DK_Venn.png "Digikoppeling structuur")|Digikoppeling is een verzameling van een aantal standaarden en afspraken, ebMS2, WUS en Grote Berichten. Digikoppeling maakt het mogelijk dat organisatie interoperabel, veilig en betrouwbaar gegevens kunnen uitwisselen. |![Digikoppeling Venn](media/DK_KVS.png "Profielen in Digikoppeling ")|
 
 Digikoppeling regelt:

@@ -8,7 +8,7 @@
 
 ## Motivatie voor scenario 2 (al het dataverkeer tussen en met overheden)
 
-Quotes uit de reacties
+*enkele quotes (zie de hoofdstukken voor de volledige reacties)*
 
 - onderscheid maken in dit verkeer is steeds minder relevant. 
 - Gegevensregistraties en transactiesystemen van de overheid worden gebruikt door zowel overheden als door private partijen.
@@ -33,6 +33,8 @@ Quotes uit de reacties
 
 **Standaardisatie leidt tot meer duidelijkheid, betere interoperabiliteit, eenvoudiger toegang tot gegevens, lagere kosten, veiligheid en betrouwbaarheid.**
 
+*enkele quotes (zie de hoofdstukken voor de volledige reacties)*
+
 - Duidelijkheid over koppelen van systemen tussen en met de overheid
 - Interoperabiliteit, voorkomen dat ieder voor zich bilateraal afspraken moet maken
 - de toegangsbarriere voor nieuwe toepassingen voor reeds beschikbare gegevenssets gaat omlaag
@@ -43,7 +45,9 @@ Quotes uit de reacties
 
 ## 3. Waar willen we heen met Digikoppeling?
 
-**Verschillende opavttingen. Het is lastig een tendens te herkennen of een gezamenlijk thema te ontwaren: Behoud het voordeel van een gedragen standaard, het inbedden van Restful APi's is gewenst, liever geen product, maar blijf bij een specificatie, volg de praktijk op de voet.**
+**Verschillende opvattingen. Het is lastig een tendens te herkennen of een gezamenlijk thema te ontwaren: Behoud het voordeel van een gedragen standaard, het inbedden van Restful APi's is gewenst, liever geen product, maar blijf bij een specificatie, volg de praktijk op de voet.**
+
+*enkele quotes (zie de hoofdstukken voor de volledige reacties)*
 
 - Alles opnemen wat gaat over het makkelijker / goedkoper uitwisselen van gegevens tussen overheden en met de overheid. 
 - en niet alleen papier maar ook ondersteuning met open source implementatie
@@ -80,6 +84,8 @@ Quotes uit de reacties
 
 **Maak geen onderscheid in meldingen en bevragingen. Denk eerder in interactiepatronen, CRUD, Resources en betrouwbaarheid. Beschrijf best practices voor business transactions.**
 
+*enkele quotes (zie de hoofdstukken voor de volledige reacties)*
+
 - stap af van meldingen en bevragingen, maak onderscheid in synchroon, asynchroon en reliable. En alles mét en zonder authenticatie(signing)  en beveiliging (encryptie).
 - het onderscheid tussen bevraging en melden is verouderd
 - het koppelen van de technologische implementatie aan het 'type' (messaging, webservice, resource) lijkt niet verstandig. Beter is om patronen in gegevensuitwisseling te vertalen naar profielen voor elk type stack
@@ -100,6 +106,8 @@ Quotes uit de reacties
 - beschrijf per protocol de stack, maar laat de koppeling met de toepassing los
 
 ## 5. Nabranders
+
+*enkele quotes (zie de hoofdstukken voor de volledige reacties)*
 
 - Zorg dat er voldoende referentie-implementaties en testmiddelen zijn om de conformiteit aan de standaarden/profielen te testen.
 - Onderzoek ook specifiek de rol die intermediairs kunnen hebben in het ecosysteem

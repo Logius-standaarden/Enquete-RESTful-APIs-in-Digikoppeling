@@ -9,6 +9,7 @@ var respecConfig = {
   // TODO: Voor pubDomain mogelijkheden zie https://github.com/Geonovum/respec/wiki/pubDomain
   // TODO: pubDomain: "...",
   // Voor publishDate zie https://github.com/w3c/respec/wiki/publishDate
+  subExplanation: "Het Technisch Overleg Digikoppeling heeft Logius gevraagd te onderzoeken of op termijn API’s als koppelvlak opgenomen kunnen worden in Digikoppeling. Om invulling te geven aan dit verzoek wil Logius graag een goed beeld hebben hoe de verschillende belanghebbenden de opname van een API koppelvlak voor zich zien en waar zij uiteindelijk het meest mee geholpen zijn. Tegelijk moet Digikoppeling een open en gedragen standaard blijven tijdens en na deze uitbreiding.",
   // Als er geen publishDate is opgegeven, genereert ReSpec de dataum o.b.v. de laatste wijzigingen
   // Belangrijk: als publishDate niet opgegeven is, wordt bij de link "Laatst gepubliceerde versie" "geen" gezet. Anders wordt een link opgebouwd voor de laatste versie, met het formaat:
   // https://docs.centrumvoorstandaarden.nl/{pubDomain}/{shortName}

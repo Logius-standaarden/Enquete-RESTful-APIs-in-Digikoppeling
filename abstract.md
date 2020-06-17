@@ -25,7 +25,7 @@ Quotes uit de reacties
 - geen voorzieningen delen met de markt
 - dit overleg heeft niet de capaciteit om die verplicht te stellen. Eerder volgt de overheid de markt-standaarden.
 
-## een ander scenario werd genoemd
+## Eén ander scenario werd genoemd
 
 - de uitwisseling van data tussen overheden onderling en met organisaties die een publieke taak vervullen. Of de data open of gesloten is maakt daarbij niet uit
 

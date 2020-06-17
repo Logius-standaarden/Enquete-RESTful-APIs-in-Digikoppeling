@@ -10,11 +10,11 @@ In deze enquête stellen we een aantal oriënterende vragen over Digikoppeling, 
 
 Voordat we een aantal vragen stellen, eerst enige informatie over de Digikoppeling standaard, om het geheugen op te frissen.
 
-## Wat is Digikoppeling?
+## Wat is (ook al weer) Digikoppeling?
 
 | Standaard| Digikoppeling| Koppelvlakspecificatie |
 |---|------------------------------------------------------------|---|
-|![Digikoppeling Venn](media/DK_Venn.png "Digikoppeling structuur")|Digikoppeling is een verzameling van een aantal standaarden en afspraken, ebMS2, WUS en Grote Berichten. Digikoppeling maakt het mogelijk dat organisatie interoperabel, veilig en betrouwbaar gegevens kunnen uitwisselen. |![Digikoppeling Venn](media/DK_KVS.png "Profielen in Digikoppeling ")|
+|![Digikoppeling Venn](media/DK_Venn_small.png "Digikoppeling structuur")|Digikoppeling is een verzameling van een aantal standaarden en afspraken, ebMS2, WUS en Grote Berichten. Digikoppeling maakt het mogelijk dat organisatie interoperabel, veilig en betrouwbaar gegevens kunnen uitwisselen. |![Digikoppeling Venn](media/DK_KVS_small.png "Profielen in Digikoppeling ")|
 
 Digikoppeling regelt:
 

@@ -62,7 +62,7 @@ Daarnaast worden er een aantal uitzonderingen genoemd die duidelijk maken dat er
 1. Uitwisseling van alle externe dataverkeer met de overheid.
 1. Uitwisseling van Closed Data tussen overheidsorganisaties onderling. Dit komt het meest over een met de huidige scope.
 
-![Scenario's](media/scope.png "Verschillende scenario's voor de scope van Digikoppeling")
+![Scenario's](media/scope_small.png "Verschillende scenario's voor de scope van Digikoppeling")
 
 ## VRAAG 1. Wat is voor mij de Scope van Digikoppeling?
 

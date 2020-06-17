@@ -1,6 +1,6 @@
-# Samenvatting 
-
 ## 1. Wat moet de scope van Digikoppeling zijn?
+
+Het Technisch Overleg Digikoppeling heeft Logius gevraagd te onderzoeken of op termijn API’s als koppelvlak opgenomen kunnen worden in Digikoppeling. Om invulling te geven aan dit verzoek heeft Logius een enquete gehouden onder haar leden. In deze publicatie zijn de hoofdlijnen van de uitkomst én de complete reacties opgenomen. 
 
 ![Vraag 1.0](media/vraag_1_0_chart.png "Opgetelde scores van vraag 1.0")
 

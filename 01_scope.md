@@ -39,7 +39,7 @@ Daarnaast worden er een aantal uitzonderingen genoemd die duidelijk maken dat er
 <table>
 <tbody>
 <tr>
-<td> <img src="media\OVInteractie.png" /></td>
+<td> <img src="media\OVInteractie_small.png" /></td>
 <td>
 <div style="padding: 10px;">
 <p>In de discussie maken we onderscheid tussen intern en externe uitwisseling van gegevens. Intern verkeer valt buiten de scope van Digikoppeling. <br /><br />Het is daarnaast handig om onderscheid te maken wie gegevens met een overheidsorganisatie uitwisselt:<br /><br /></p>

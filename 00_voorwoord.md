@@ -1,4 +1,8 @@
-# Inleiding
+# Alle Reacties
+
+## Inleiding
+
+In de volgende hoofdstukken worden alle reacties vermeld. De hoofdstukken vermelden eerst vraag zoals gesteld in de enquête. Vervolgens worden alle ontvangen antwoorden onder het kopje `Reacties` vermeld. 
 
 ## Waarom deze enquête?
 

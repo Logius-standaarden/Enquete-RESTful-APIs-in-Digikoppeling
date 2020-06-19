@@ -1,12 +1,12 @@
 # Analyse van de antwoorden
 
-## 1. Wat moet de scope van Digikoppeling zijn?
+## Wat moet de scope van Digikoppeling zijn?
 
 ![Vraag 1.0](media/vraag_1_0_chart.png "Opgetelde scores van vraag 1.0")
 
 `Het valt op dat de leden kiezen voor een scope van Digikoppeling die óf heel breed is (al het verkeer met de overheden)  óf beperkt moet worden tot closed data tussen overheden onderling.`
 
-## Motivatie voor scenario 2 (al het dataverkeer tussen en met overheden)
+### Motivatie voor scenario 2 (al het dataverkeer tussen en met overheden)
 
 *enkele quotes (zie de hoofdstukken voor de volledige reacties)*
 
@@ -17,7 +17,7 @@
 - Het is wenselijk om generieke beveiligingsvoorschriften te hebben voor DK als REST
 - er moeten profielen komen voor enerzijds open-data en anderzijds closed-data.
 
-## Motivatie voor scenario 3 (uitwisseling van closed Data tussen overheden onderling)
+### Motivatie voor scenario 3 (uitwisseling van closed Data tussen overheden onderling)
 
 - ook voor (semi) publieke sector en serviceproviders onder verantwoordelijkheid van de overheid
 - er zijn voordelen in het gebruik van Digikoppeling standaard, inclusief authenticatie / beveiligingsaspecten
@@ -25,11 +25,11 @@
 - geen voorzieningen delen met de markt
 - dit overleg heeft niet de capaciteit om die verplicht te stellen. Eerder volgt de overheid de markt-standaarden.
 
-## Eén ander scenario werd genoemd
+### Eén ander scenario werd genoemd
 
 - de uitwisseling van data tussen overheden onderling en met organisaties die een publieke taak vervullen. Of de data open of gesloten is maakt daarbij niet uit
 
-## 2. Behoefte waarin Digikoppeling voorziet
+## Behoefte waarin Digikoppeling voorziet
 
 `Standaardisatie leidt tot meer duidelijkheid, betere interoperabiliteit, eenvoudiger toegang tot gegevens, lagere kosten, veiligheid en betrouwbaarheid.`
 
@@ -43,7 +43,7 @@
 - kern overeind houden: interoperabel, veilig en betrouwbaar verkeer o.b.v. identificatie, authenticatie en vertrouwelijkheid
 - pas puur de internationale standaarden toe en beperk zo min mogelijk
 
-## 3. Waar willen we heen met Digikoppeling?
+## Waar willen we heen met Digikoppeling?
 
 `Verschillende opvattingen. Het is lastig een tendens te herkennen of een gezamenlijk thema te ontwaren: Behoud het voordeel van een gedragen standaard, het inbedden van Restful APi's is gewenst, liever geen product, maar blijf bij een secificatie, volg de praktijk op de voet.`
 
@@ -80,7 +80,7 @@
 - wij zullen vooral WUS en API gaan gebruiken, dus API standaarden opnemen Ja. NLX niet opnemen als standaard
 - JWT gaan wij zeker gebruiken.
 
-## 4. Hoe Restful APi's op te nemen in Digikoppeling?
+## Hoe moeten we Restful APi's opnemen in Digikoppeling?
 
 `Maak geen onderscheid in meldingen en bevragingen. Denk eerder in interactiepatronen, CRUD, Resources en betrouwbaarheid. Beschrijf best practices voor business transactions.`
 
@@ -105,7 +105,7 @@
 - er moet apart een resource-based profiel beschreven worden op basis van Restful API. Hierbij moet er speciale aandacht worden besteed aan Notificatie en/of Meldingen.
 - beschrijf per protocol de stack, maar laat de koppeling met de toepassing los
 
-## 5. Nabranders
+## Nabranders
 
 `een aantal respondenten maakte van de mogelijkheid gebruik om een aantal extra opmerkingen te plaatsen`
 

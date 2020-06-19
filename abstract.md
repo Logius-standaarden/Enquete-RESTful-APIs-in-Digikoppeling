@@ -17,14 +17,14 @@ Over de `richting` waar Digikoppeling heen moet bestaan verschillende opvattinge
 
 Als advies hoe `Restful APi's` ondergebracht moeten worden wordt vaak genoemd om geen onderscheid te maken in meldingen en bevragingen, maar te denken in interactiepatronen, CRUD, Resources en betrouwbaarheid. En te zorgen dat er best-practices komen hoe business transactions uit te voeren.
 
-## leeswijzer
+## Leeswijzer
 
 Dit document begint eerst met een analyse van de ontvangen antwoorden. Hierbj worden een aantal opvallende quotes uit de reacties weergegeven. De verdere hoofdstukken bevatten de complete responses.
 
-## commentaar
+## Commentaar
 
-Commentaar op dit doucment kunt u geven op (https://github.com/centrumvoorstandaarden/Enquete-RESTful-APIs-in-Digikoppeling/issues). Om commentaar te kunnen geven is een github account noodzakelijk.
+Commentaar op dit document kunt u geven op (https://github.com/centrumvoorstandaarden/Enquete-RESTful-APIs-in-Digikoppeling/issues). Om commentaar te kunnen geven is een github account noodzakelijk.
 
 ## Opmaak en publicatie van dit document
 
-Voor de opmaak van dit document hebben we gebruik gemaakt van onze nieuwe *experimentele* publicatieomgeving op basis van Github en Respec. Deze omgeving is nog `work in progress` en nog niet alle elementen van dit product zijn volledig ingevuld. 
+Voor de opmaak van dit document hebben we gebruik gemaakt van onze nieuwe *experimentele* publicatieomgeving op basis van Github en Respec. Deze omgeving is nog `work in progress` en nog niet alle elementen van dit product zijn volledig ingevuld of werken naar behoren.

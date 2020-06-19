@@ -1,4 +1,4 @@
-# Samenvatting
+## Een enquête over Digikoppeling en Restful APi's 
 
 Het Technisch Overleg Digikoppeling heeft Logius gevraagd te onderzoeken of op termijn API’s als koppelvlak opgenomen kunnen worden in Digikoppeling. Om invulling te geven aan dit verzoek heeft Logius een enquete gehouden onder haar leden. In deze publicatie zijn de hoofdlijnen van de uitkomst én de complete reacties opgenomen.
 

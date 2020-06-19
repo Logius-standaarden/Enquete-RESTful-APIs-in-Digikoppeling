@@ -16,7 +16,6 @@ Veel overheidsorganisaties zien de voordelen van het (verplicht) gebruik van sta
 
 >- de overheid is een groot gegevenslandschap, samenhangende overkoepelende afspraken voorkomen dat ieder voor zich bilateraal afspraken moet maken over basale zaken.
 >- consequent toepassen van een set standaarden maakt dat de toegangsbarriere voor nieuwe toepassingen voor reeds beschikbare gegevenssets omlaag gaat.
->>>
 
 >Duidelijkheid over de manier waarop overheden veilig en gestandaardiseerd gegevens kunnen uitwisselen. Standaardisatie leidt tot lagere kosten en eenvoudig aansluiten.
 

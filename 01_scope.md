@@ -29,7 +29,7 @@ Hoewel Digikoppeling breder te gebruiken is, heeft de Nederlandse overheid bepaa
 
 ## Wat moet de Scope van Digikoppeling worden?
 
-### inleiding
+### Inleiding
 
 Een belangrijk kenmerk van Digikoppeling is dat het wordt gebruikt voor beveiligd gestructureerd berichtverkeer. In het toepassingsgebied komt het begrip ‘beveiligd’ vreemd genoeg niet terug. Toch is ook uit de Forum omschrijving wel af te leiden dat authenticatie en beveiliging een rol spelen bij de toepassing van Digikoppeling. Bij de uitzonderingen op de verplichting vermeldt het Forum dat Digikoppeling niet verplicht is als de aanbieder van gegevens vaststelt dat geen noodzaak bestaat om de afnemer van de gegevens te authenticeren.
 

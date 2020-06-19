@@ -31,7 +31,7 @@ var respecConfig = {
     },
   ],
   // shortName = korte naam voor in de url van het document, gebruik alleen letters, cijfers en eventueel '-'
-  shortName: "enqdkenAPI",
+  shortName: "enquete_DK_en_API",
   // url van de github repository waar je in werkt
   github: "https://github.com/centrumvoorstandaarden/Enquete-RESTful-APIs-in-Digikoppeling",
   // url van de issue lijst in de github repository waar je in werkt

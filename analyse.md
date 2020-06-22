@@ -45,7 +45,7 @@
 
 ## Waar willen we heen met Digikoppeling?
 
-`Verschillende opvattingen. Het is lastig een tendens te herkennen of een gezamenlijk thema te ontwaren: Behoud het voordeel van een gedragen standaard, het inbedden van Restful APi's is gewenst, liever geen product, maar blijf bij een secificatie, volg de praktijk op de voet.`
+`Verschillende opvattingen. Het is lastig een tendens te herkennen of een gezamenlijk thema te ontwaren: Behoud het voordeel van een gedragen standaard, het inbedden van Restful APi's is gewenst, liever geen product, maar blijf bij een specificatie, volg de praktijk op de voet.`
 
 *quotes (zie de hoofdstukken voor de volledige reacties)*
 

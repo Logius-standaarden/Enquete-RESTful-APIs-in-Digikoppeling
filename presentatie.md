@@ -2,16 +2,16 @@
 
 ## Agenda
 
-Doel: mening peilen van de Digikoppeling Comunity hoe APi's in te bedden in de standaard
+Doel: Bepalen hoe APi's in te bedden in de standaard
 
 - Terugkoppeling Enquête
 - Bespreken onderwerpen
-  - Verduidelijking behoefte Digikoppeling
-  - Scope Digikoppeling
-  - Profiel op API Design Rules
+  - Voorstel voor de scope (Peter Variant)
+  - concept Beschrijving van beide API profielen
+  - herzien Digikoppeling Architectuur
 - Afspraken voor vervolg
 
-## Terugkoppeling Enquête
+## Terugkoppeling Enquête (1)
 
 De enquête is verstuurd naar actieve leden van het Technisch Overleg Digikoppeling
 
@@ -20,26 +20,41 @@ De enquête is verstuurd naar actieve leden van het Technisch Overleg Digikoppel
 |aantal verstuurd:| 29|
 |aantal reacties ontvangen:| 16 |
 
+## Terugkoppeling Enquête (2)
+
 ![Deelname](media/aantalreacties.png "Ik doe graag mee on de discussie over API's in Digikoppeling")
 
-## Wat moet de scope van Digikoppeling zijn? 1
+## Wat moet de scope van Digikoppeling zijn? (1)
 
-![scope](media/scope_small.png "Scope van Digikoppeling")
+![scope](media/scope.png "Scope van Digikoppeling")
 
+## Wat moet de scope van Digikoppeling zijn? (2)
 ![Vraag 1.0](media/vraag_1_0_chart.png "Opgetelde scores van vraag 1.0")
 
-## Wat moet de scope van Digikoppeling zijn? 2
+## Wat moet de scope van Digikoppeling zijn? (3)
 
-| scenario 2| scenario 3|
-|:---:|:---------------------------:|
-|![scenario2](media/OVI_dk1_small.png "Scenario 2")|![scenario3](media/OVI_dk3_small.png "Scenario 3")|
-|onderscheid maken steeds minder relevant|ook voor (semi) publieke sector en serviceproviders|
-|gebruik registraties en transactiesystemen van de overheid door zowel overheden als private partijen|er een alternatief is (NEN3610 of API of ..) géén verplichting|
-|profielen voor open als closed data nodig|geen voorzieningen delen met de markt|
+**Scenario 2** *(al het verkeer met de overheden)*
+
+- onderscheid maken steeds minder relevant
+- gebruik registraties en transactiesystemen van de overheid door zowel overheden als private partijen
+- profielen voor open als closed data nodig|
+
+## Wat moet de scope van Digikoppeling zijn? (4)
+
+**Scenario 3** *(Uitwisseling van closed Data tussen overheden onderling)*
+
+- ook voor (semi) publieke sector en serviceproviders
+- Als er een alternatief is (NEN3610 of API of ..) géén verplichting
+- geen voorzieningen delen met de markt
+
+
+## Eén ander scenario werd genoemd
+
+- de uitwisseling van data tussen overheden onderling en met organisaties die een publieke taak vervullen. Of de data open of gesloten is maakt daarbij niet uit
 
 ## Behoefte waarin Digikoppeling voorziet
 
-Standaardisatie leidt tot 
+**Standaardisatie leidt tot**
 
 - meer duidelijkheid
 - betere interoperabiliteit
@@ -66,20 +81,20 @@ Het is lastig een tendens te herkennen of een gezamenlijk thema te ontwaren:
 
 ## Nabranders
 
-- zorg dat er voldoende referentie-implementaties en testmiddelen zijn om de conformiteit aan de standaarden/profielen te testen.
-- onderzoek ook specifiek de rol die intermediairs kunnen hebben in het ecosysteem
-- het moet duidelijk zijn wat je met een API wel kan wat met ebMS of WUS niet kan in functionele of non functionele zin
+- zorg dat er voldoende referentie-implementaties en testmiddelen zijn
+- onderzoek ook de rol die intermediairs  hebben 
+- maak duidelijk zijn wat je met een API wel kan wat met ebMS of WUS niet kan 
 - met NLX kan je een API 6000x per seconde aanroepen, met DK kan je 6 ebMS berichten per seconde uitwisselen.
-- dit roept wel weer vragen op hoe de DK architectuur zich verhoudt tot NORA en de NORA katernen.
-
-en gelukkig ook:
-
-- veel succes
+- hoe verhoudt DK architectuur zich tot NORA en de NORA katernen.
+- en gelukkig ook: **veel succes**
 
 
-## Oordeel over deze enquête
+## Oordeel over deze enquête (1)
 
 ![Niveau](media/niveauvragen.png "Niveau van de gestelde vragen")
+
+
+## Oordeel over deze enquête (2)
 
 ![Niveau](media/enquetealsmiddel.png "Niveau van de gestelde vragen")
 
@@ -98,10 +113,13 @@ deze presentatie
 
 ## Scope Digikoppeling
 
+![Niveau](media/ScopeDK_PeHa.png "Dit wordt de scope van Digikoppeling")
+
+
 ## Profiel op API Design Rules
 
-## Hoe verder
+## Hoe verder?
 
-uitwerken resultaten
-volgende meeting TO in September
+- uitwerken resultaten
+- volgende meeting TO in September
 

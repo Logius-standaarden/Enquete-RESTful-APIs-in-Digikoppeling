@@ -68,8 +68,8 @@ Het onderscheid tussen open en gesloten diensten is daarom mogelijk beter dan he
 
 - Omdat deze scope G2G publieke diensten invult, wordt eigenlijk het gehele publieke vlak ingevuld: G2x Open Diensten
 - DK krijgt hiermee 2 functies:
---wat gebruik je voor publieke diensten (G2x)
---wat gebruik je voor G2G 'gesloten' diensten
+  - Wat gebruik je voor publieke diensten (G2x)
+  - Wat gebruik je voor G2G 'gesloten' diensten
 - huidige PTLU scope sluit gevallen waar geen authenticatie van afnemers nodig is juist uit van verplicht gebruik van DK
 
 - Vraag is of deze scope / indeling voordelen biedt?

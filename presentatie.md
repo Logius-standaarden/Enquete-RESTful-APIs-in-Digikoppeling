@@ -62,7 +62,7 @@ Het onderscheid tussen open en gesloten diensten is daarom mogelijk beter dan he
 
 ## Profielen voor DK G2G Open/Gesloten Diensten
 
-![Profielen](media/G2Gprofielen.png "G2G Open/Gesloten")
+![Profielen](media/G2Gprofiel.png "G2G Open/Gesloten")
 
 ## Opmerkingen bij scenario DK G2G Open/Gesloten Diensten
 

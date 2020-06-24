@@ -49,7 +49,7 @@ De enquête is verstuurd naar actieve leden van het Technisch Overleg Digikoppel
 
 
 ## Eén ander scenario werd genoemd
-
+![Vraag 1.0](media/ovi_scope_4_small.png "Opgetelde scores van vraag 1.0")
 - de uitwisseling van data tussen overheden onderling en met organisaties die een publieke taak vervullen. Of de data open of gesloten is maakt daarbij niet uit
 
 ## Behoefte waarin Digikoppeling voorziet

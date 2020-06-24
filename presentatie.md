@@ -52,6 +52,30 @@ De enquête is verstuurd naar actieve leden van het Technisch Overleg Digikoppel
 ![Vraag 1.0](media/ovi_scope_4_small.png "Opgetelde scores van vraag 1.0")
 - de uitwisseling van data tussen overheden onderling en met organisaties die een publieke taak vervullen. Of de data open of gesloten is maakt daarbij niet uit
 
+## Toelichting 
+
+Het kan wenselijk zijn om 'open data' wel via een betrouwbaar/veilig kanaal te ontvangen omdat het 'kritisch' is voor de bedrijfsprocessen van een organisatie;
+(bv zekerheid van afzender en integriteit van de data)
+Het onderscheid tussen open en gesloten diensten is daarom mogelijk beter dan het onderscheid tussen open/gesloten data
+- Open Diensten : overheidsdiensten die publiek toegankelijk zijn
+- Gesloten Diensten : overheids diensten die toegankelijk zijn voor bepaalde afnemers (bv overheden G2G)
+
+## Profielen voor DK G2G Open/Gesloten Diensten
+
+![Profielen](media/G2Gprofielen.png "G2G Open/Gesloten")
+
+## Opmerkingen bij scenario DK G2G Open/Gesloten Diensten
+
+- Omdat deze scope G2G publieke diensten invult, wordt eigenlijk het gehele publieke vlak ingevuld: G2x Open Diensten
+- DK krijgt hiermee 2 functies:
+--wat gebruik je voor publieke diensten (G2x)
+--wat gebruik je voor G2G 'gesloten' diensten
+- huidige PTLU scope sluit gevallen waar geen authenticatie van afnemers nodig is juist uit van verplicht gebruik van DK
+
+- Vraag is of deze scope / indeling voordelen biedt?
+(in vergelijking met een focus op G2G gesloten diensten)
+
+
 ## Behoefte waarin Digikoppeling voorziet
 
 **Standaardisatie leidt tot**

@@ -142,14 +142,21 @@ Het onderscheid tussen open en gesloten diensten is daarom geschikter dan het on
 
 ## Profiel op API Design Rules
   
-  DUO heeft al een API-SAAS profiel in ontwikkeling!
-  - op basis van ADR en ADR extensies 
+  DUO heeft een REST/SAAS profiel in ontwikkeling!
+  - refereert aan `API Design Rules` en `API Design Rules Extensions` 
 
-## Digikoppeling Architectuur
+## Hoe komt Digikoppeling Architectuur er uit te zien?
 
 - Overzicht profielen
-- Overzicht use case 
-- Geen onderscheid Bevragingen en meldingen
+- Overzicht tranactiepatronen (nieuw)
+- Rollen: End-to-end, verwerker, intermediair, SAAS dienstverlener 
+- Overzicht use cases (nieuw)
+- Bevragingen en Meldingen
+  1. Moeten we deze begrippen handhaven of niet meer noemen?
+    - push/pull
+    - synchroon/asynchroon
+    - best effort/betrouwbaar
+  1. Geen koppeling met profielen
 
 
 ## Hoe verder?

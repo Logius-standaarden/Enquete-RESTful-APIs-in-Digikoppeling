@@ -117,6 +117,16 @@ deze presentatie
 
 
 ## Profiel op API Design Rules
+  
+  DUO heeft al een API-SAAS profiel in ontwikkeling!
+  - op basis van ADR en ADR extensies 
+
+## Digikoppeling Architectuur
+
+- Overzicht profielen
+- Overzicht use case 
+- Geen onderscheid Bevragingen en meldingen
+
 
 ## Hoe verder?
 

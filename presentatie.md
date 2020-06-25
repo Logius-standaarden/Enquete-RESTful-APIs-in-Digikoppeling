@@ -110,10 +110,9 @@ deze presentatie
 
 ## Verduidelijking behoefte Digikoppeling
 
-## Scope Digikoppeling variant : G2G Open/Gesloten Diensten
+## Scope Variant: G2G Open & Gesloten Diensten
 
-![Niveau](media/ScopeDK_PeHa.png "Scope van Digikoppeling")
-![Alternatief 4](media/ovi_scope_4_small.png "Opgetelde scores van vraag 1.0")
+![Alternatief 4](media/ovi_scope_4_small.png "G2G Open & Gesloten Diensten")
 
 
 ## Toelichting 

@@ -6,9 +6,8 @@ Doel: Bepalen hoe APi's in te bedden in de standaard
 
 - Terugkoppeling Enquête
 - Bespreken onderwerpen
-  - Voorstel voor de scope (Peter Variant)
-  - concept Beschrijving van beide API profielen
-  - herzien Digikoppeling Architectuur
+  - Bespreken van de scope
+  - Herzien Digikoppeling Architectuur
 - Afspraken voor vervolg
 
 ## Terugkoppeling Enquête (1)

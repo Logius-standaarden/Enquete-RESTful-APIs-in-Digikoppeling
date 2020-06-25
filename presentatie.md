@@ -162,7 +162,7 @@ Zoals eerder aangegeven is dit profiel bedoeld voor vertrouwelijke gegevensuitwi
 ## Hoe komt Digikoppeling Architectuur er uit te zien?
 
 - Overzicht profielen
-- Overzicht tranactiepatronen (nieuw)
+- Overzicht transactiepatronen (nieuw)
 - Rollen: End-to-end, verwerker, intermediair, SAAS dienstverlener 
 - Overzicht use cases (nieuw)
 - Bevragingen en Meldingen

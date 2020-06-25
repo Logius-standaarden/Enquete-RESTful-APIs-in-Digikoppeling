@@ -153,10 +153,10 @@ Het onderscheid tussen open en gesloten diensten is daarom geschikter dan het on
 - Overzicht use cases (nieuw)
 - Bevragingen en Meldingen
   1. Moeten we deze begrippen handhaven of niet meer noemen?
-    - push/pull
-    - synchroon/asynchroon
-    - best effort/betrouwbaar
-  1. Geen koppeling met profielen
+     - push/pull
+     - synchroon/asynchroon
+     - best effort/betrouwbaar
+  2. Geen koppeling met profielen
 
 
 ## Hoe verder?
